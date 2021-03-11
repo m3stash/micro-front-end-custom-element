@@ -1,0 +1,3 @@
+[submodule "react-js-app"]
+	path = react-js-app
+	url = git@github.com:m3stash/react-js-app.git
